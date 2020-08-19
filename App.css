@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ItOGqoQPx1RqRRpBvN0nRwHaDX%26pid%3DApi&f=1);
+}
+
+#app {
+  height: 100vh;
+}
+
+.page-1905 {
+  margin: 0px 15% 0px 15%;
+  min-height: 100%;
+    background-image: url(https://cdn.discordapp.com/attachments/658953295271952401/745433036027592714/iu.png);
+}
+  
+.navbar-1905 {
+  width: 100%;
+  background-image: url(https://cdn.discordapp.com/attachments/658953295271952401/745434179004530829/iu.png);
+  height: 50px;
+}
+
+.navbar-1905 a {
+  position: relative;
+  top: 14px;
+  padding:18px;
+  background-image: url(https://cdn.discordapp.com/attachments/658953295271952401/745444515594371282/seamless-vector-carbon-fiber-texture-background-42330418.png);
+  color: white;
+  text-decoration: none;
+}
